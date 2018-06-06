@@ -347,7 +347,7 @@
     <Compile Include="Assets\Assets\PostProcessing\Editor\Utils\ReflectionUtils.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Assets.txt" />
+    <None Include="Assets\Assets\Assets.txt" />
     <None Include="Assets\Assets\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
     <None Include="Assets\Assets\JMO Assets\!JMO Assets Readme.txt" />
     <None Include="Assets\Assets\JMO Assets\Cartoon FX Easy Editor\CartoonFX Easy Editor Readme.txt" />
